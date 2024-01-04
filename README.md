@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio.
-- 💜 I love to learn about anything.
-- 🌱 I’m currently a software engineer at Ravn and SmartShyp.
+- 💜 I love to learn about JS related tecnologies.
+- 🌱 I’m currently a software engineer at Darma.
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/antoniomatasv/).
 
 <a target=_blank href="https://github.com/devmata">
