@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Antonio.
-- 💜 I love to learn about JS related tecnologies.
-- 🌱 I’m currently a software engineer at Darma.
+- 👋 Hi, I’m Antonio, I've been a software developer for 5 years.
+- 💜 I enjoy working on backend side with JS stack.
+- 🌱 I’m currently a software engineer at Katatek, touching JS/TS and Java.
+- 🤓 Kinda bit a nerd, using Fortran for HPC at my master.
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/antoniomatasv/).
 
 <a target=_blank href="https://github.com/devmata">
