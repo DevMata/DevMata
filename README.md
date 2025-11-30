@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio, I've been a software developer for 5 years.
 - 💜 I enjoy working on backend side with JS stack.
-- 🌱 I’m currently a software engineer at Katatek, touching JS/TS and Java.
+- 🌱 I’m currently a software engineer at RingCentral España, playing with TS.
 - 🤓 Kinda bit a nerd, using Fortran for HPC at my master.
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/antoniomatasv/).
 
